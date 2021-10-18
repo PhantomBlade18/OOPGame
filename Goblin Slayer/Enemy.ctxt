@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=n\ h\ a
+comment1.target=Enemy(java.lang.String,\ int,\ int)
+comment2.params=h
+comment2.target=void\ setHP(int)
+comment3.params=
+comment3.target=int\ getHP()
+comment4.params=a
+comment4.target=void\ setAttack(int)
+comment5.params=
+comment5.target=int\ getAttack()
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=
+comment7.target=boolean\ getStatus()
+comment8.params=s
+comment8.target=void\ setStatus(boolean)
+numComments=9

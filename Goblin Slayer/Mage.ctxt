@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Mage
+comment1.params=n
+comment1.target=Mage(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getAttackMsg()
+comment3.params=
+comment3.target=java.lang.String\ getSpecialAttackMsg()
+comment4.params=
+comment4.target=java.lang.String\ getHeavyAttackMsg()
+comment5.params=dmg
+comment5.target=int\ specialAttack(int)
+comment6.params=dmg
+comment6.target=int\ heavyAttack(int)
+comment7.params=
+comment7.target=java.lang.String\ healMsg()
+numComments=8
